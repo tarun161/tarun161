@@ -1,12 +1,14 @@
 ```
 Info {
-    firstName  : Tarun
-    secondName : Srinivas
+    firstName:Tarun
+    secondName:Srinivas
     currentOrganization:Target
     Hobbies:Playing Cricket,Badminton,Watching movies
 }
 ```
+[My leetcode profile](https://leetcode.com/tarunsrinivas/)
 
+[My LinkedIn profile](https://www.linkedin.com/in/tarun-srinivas-116777191/)
 <!--
 **tarun161/tarun161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
