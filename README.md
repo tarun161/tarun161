@@ -1,4 +1,11 @@
-### Hi there 👋
+```
+Info {
+    firstName  : Tarun
+    secondName : Srinivas
+    currentOrganization:Target
+    Hobbies:Playing Cricket,Badminton,Watching movies
+}
+```
 
 <!--
 **tarun161/tarun161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
