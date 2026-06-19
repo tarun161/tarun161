@@ -18,5 +18,3 @@ When I'm not designing systems or competing on LeetCode, you can find me playing
 
 ### 📫 Let's Connect
 * [LinkedIn Profile](#) * [LeetCode Profile](#) ```
-
-Would you like to add visual Markdown badges (like customized shields for Java, Spring Boot, and AWS) to make the skills section pop even more?
